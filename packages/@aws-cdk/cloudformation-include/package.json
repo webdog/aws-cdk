@@ -191,7 +191,7 @@
     "@aws-cdk/aws-workspaces": "0.0.0",
     "@aws-cdk/core": "0.0.0",
     "@aws-cdk/yaml-cfn": "0.0.0",
-    "constructs": "^3.0.4"
+    "constructs": "^3.0.8"
   },
   "peerDependencies": {
     "@aws-cdk/alexa-ask": "0.0.0",
@@ -319,14 +319,14 @@
     "@aws-cdk/aws-workspaces": "0.0.0",
     "@aws-cdk/core": "0.0.0",
     "@aws-cdk/yaml-cfn": "0.0.0",
-    "constructs": "^3.0.4"
+    "constructs": "^3.0.8"
   },
   "devDependencies": {
     "@aws-cdk/assert": "0.0.0",
     "@types/jest": "^26.0.14",
     "cdk-build-tools": "0.0.0",
     "cdk-integ-tools": "0.0.0",
-    "jest": "^26.4.2",
+    "jest": "^26.5.2",
     "pkglint": "0.0.0",
     "ts-jest": "^26.4.1"
   },
